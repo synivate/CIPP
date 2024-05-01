@@ -84,7 +84,7 @@
     },
     {
       "route": "/tenant/conditional/deploy-vacation*",
-      "allowedRoles": ["admin", "editor", "vacationMode"]
+      "allowedRoles": ["admin", "editor", "vacationmode"]
     },
     {
       "route": "*",
