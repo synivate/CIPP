@@ -83,7 +83,7 @@
       "allowedRoles": ["admin", "editor", "readonly", "reader", "authenticated", "anonymous"]
     },
     {
-      "route": "/api/ExecCIPPCAExclusion",
+      "route": "/api/DeployVacation",
       "allowedRoles": ["admin", "editor", "vacationmode"]
     },
     {
