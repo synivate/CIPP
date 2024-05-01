@@ -83,7 +83,7 @@
       "allowedRoles": ["admin", "editor", "readonly", "reader", "authenticated", "anonymous"]
     },
     {
-      "path": "/tenant/conditional/deploy-vacation",
+      "route": "/tenant/conditional/deploy-vacation",
       "allowedRoles": ["admin", "editor", "vacationmode"]
     },
     {
