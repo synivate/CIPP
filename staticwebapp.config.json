@@ -83,10 +83,6 @@
       "allowedRoles": ["admin", "editor", "readonly", "reader", "authenticated", "anonymous"]
     },
     {
-      "route": "/api/DeployVacation",
-      "allowedRoles": ["admin", "editor", "vacationmode"]
-    },
-    {
       "route": "*",
       "allowedRoles": ["admin", "editor", "readonly", "reader"]
     }
